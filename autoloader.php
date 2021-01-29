@@ -1,5 +1,5 @@
 <?php
-	// directory of php classes; if none, leave autolaoder in the root directory
+	// directory of php classes; if multiple, point to single parent directory
 	define( 'CLASSES_DIRECTORY', dirname( __FILE__ ));
 
 	// show debug shenanigans
